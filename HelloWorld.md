@@ -1,7 +1,7 @@
 ---
-title: "HelloWorld"
-author: "Xitemo"
-date: "2023-03-07"
+ "HelloWorld"
+ "Xitemo"
+"2023-03-07"
 output: html_document
 ---
 
